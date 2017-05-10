@@ -8,9 +8,10 @@ exports.config = {
   /**
    * Array of application names.
    */
-  app_name: ['devops-tutorial'],
+  app_name: ['devops-toolchain-tutorial'],
   /**
    * Your New Relic license key.
+   * Ignore this line
    */
   license_key: process.env.NEW_RELIC_LICENSE_KEY,
   logging: {
